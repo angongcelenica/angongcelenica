@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angongcelenica
-- 👀 I’m interested in Data analytics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL, R & Python
 - 📫 You can find me on my LinkedIn https://www.linkedin.com/in/angongakot/ 
 
